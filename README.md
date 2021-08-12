@@ -11,7 +11,7 @@ A C++ progam for a triangle in pink color <br/>
 -> a.cpp : <br/>
 A C++ program for drawing various output primitives using openGL <br/><br/>
 -> b.cpp : <br/>
-A C++ program for drawing a house using openGL <br/>
+A C++ program for drawing a house using openGL (practise question)<br/>
 
 #### 3. Ex2
 -> a.cpp : <br/>
