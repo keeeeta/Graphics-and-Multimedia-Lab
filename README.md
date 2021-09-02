@@ -32,3 +32,5 @@ A C++ program for drawing an image of a doughnut using the above algorithm (prac
 A C++ program to perform basic transformations such as - Translation,Scaling, and Rotation <br/><br/>
 -> b.cpp : <br/>
 A C++ program to perform extended transformations such as - Reflection and Shearing <br/><br/>
+
+##  Ex6
